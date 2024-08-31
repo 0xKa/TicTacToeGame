@@ -1,0 +1,10 @@
+F:\ProgrammingAdvices\Course 14 - C# lvl1\Tic-Tac-Toe_Game\bin\Debug\Tic-Tac-Toe_Game.exe.config
+F:\ProgrammingAdvices\Course 14 - C# lvl1\Tic-Tac-Toe_Game\bin\Debug\Tic-Tac-Toe_Game.exe
+F:\ProgrammingAdvices\Course 14 - C# lvl1\Tic-Tac-Toe_Game\bin\Debug\Tic-Tac-Toe_Game.pdb
+F:\ProgrammingAdvices\Course 14 - C# lvl1\Tic-Tac-Toe_Game\obj\Debug\Tic-Tac-Toe_Game.csproj.AssemblyReference.cache
+F:\ProgrammingAdvices\Course 14 - C# lvl1\Tic-Tac-Toe_Game\obj\Debug\Tic_Tac_Toe_Game.Form1.resources
+F:\ProgrammingAdvices\Course 14 - C# lvl1\Tic-Tac-Toe_Game\obj\Debug\Tic_Tac_Toe_Game.Properties.Resources.resources
+F:\ProgrammingAdvices\Course 14 - C# lvl1\Tic-Tac-Toe_Game\obj\Debug\Tic-Tac-Toe_Game.csproj.GenerateResource.cache
+F:\ProgrammingAdvices\Course 14 - C# lvl1\Tic-Tac-Toe_Game\obj\Debug\Tic-Tac-Toe_Game.csproj.CoreCompileInputs.cache
+F:\ProgrammingAdvices\Course 14 - C# lvl1\Tic-Tac-Toe_Game\obj\Debug\Tic-Tac-Toe_Game.exe
+F:\ProgrammingAdvices\Course 14 - C# lvl1\Tic-Tac-Toe_Game\obj\Debug\Tic-Tac-Toe_Game.pdb
